@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Files/Kaggle/Reevalua/mlruns/862650915588824870/c99b89b7f3304179bfd06c431dc5bc98/artifacts
+end_time: 1734996700121
+entry_point_name: ''
+experiment_id: '862650915588824870'
+lifecycle_stage: active
+run_id: c99b89b7f3304179bfd06c431dc5bc98
+run_name: LGBM_GridSearch
+run_uuid: c99b89b7f3304179bfd06c431dc5bc98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734996634181
+status: 3
+tags: []
+user_id: semig

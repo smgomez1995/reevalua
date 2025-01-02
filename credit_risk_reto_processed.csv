@@ -1,0 +1,1001 @@
+Sex,Job,Housing,Credit amount,Duration,Purpose,Monthly_Payment,Loan Category,Age Group,Account Size,High Monthly_Payment,Prompt Length,Prediction Mistral,Prediction Mistral Small
+male,skilled,own,1169,6,radio/TV,195.0,recreational,61_70,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,5951,48,radio/TV,124.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2096,12,education,175.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,7882,42,furniture/equipment,188.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,4870,24,car,203.0,development,51_60,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,free,9055,36,education,252.0,development,31_40,no data,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2835,24,furniture/equipment,118.0,maintenance,51_60,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,6948,36,car,193.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3059,12,radio/TV,255.0,recreational,61_70,rich,high,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,5234,30,car,174.0,development,21_30,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1295,12,car,108.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,4308,48,business,90.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1567,12,radio/TV,131.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1199,24,car,50.0,development,61_70,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1403,15,car,94.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1282,24,radio/TV,53.0,recreational,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2424,24,radio/TV,101.0,recreational,51_60,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,8072,30,business,269.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,12579,24,car,524.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3430,24,radio/TV,143.0,recreational,31_40,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2134,9,car,237.0,development,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2647,6,radio/TV,441.0,recreational,41_50,quite rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,2241,10,car,224.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1804,12,car,150.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2069,10,furniture/equipment,207.0,maintenance,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1374,6,furniture/equipment,229.0,maintenance,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,426,6,radio/TV,71.0,recreational,31_40,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,409,12,radio/TV,34.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2415,7,radio/TV,345.0,recreational,31_40,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6836,60,business,114.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1913,18,business,106.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4020,24,furniture/equipment,168.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5866,18,car,326.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1264,12,business,105.0,development,51_60,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,1474,12,furniture/equipment,123.0,maintenance,31_40,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4746,45,radio/TV,105.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,6110,48,education,127.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2100,18,radio/TV,117.0,recreational,31_40,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1225,10,domestic appliances,122.0,maintenance,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,458,9,radio/TV,51.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2333,30,radio/TV,78.0,recreational,31_40,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1158,12,radio/TV,96.0,recreational,21_30,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,6204,18,repairs,345.0,maintenance,41_50,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,6187,30,car,206.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,free,6143,48,car,128.0,development,51_60,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,1393,11,car,127.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2299,36,radio/TV,64.0,recreational,31_40,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,rent,1352,6,car,225.0,development,21_30,quite rich,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,7228,11,car,657.0,development,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,2073,12,radio/TV,173.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2333,24,furniture/equipment,97.0,maintenance,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,5965,27,car,221.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1262,12,radio/TV,105.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3378,18,car,188.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2225,36,car,62.0,development,51_60,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,783,6,car,130.0,development,21_30,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,6468,12,radio/TV,539.0,recreational,51_60,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,9566,36,radio/TV,266.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,1961,18,car,109.0,development,21_30,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,6229,36,furniture/equipment,173.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1391,9,business,155.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1537,15,radio/TV,102.0,recreational,51_60,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1953,36,business,54.0,development,61_70,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,14421,48,business,300.0,development,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3181,24,radio/TV,133.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5190,27,repairs,192.0,maintenance,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2171,12,radio/TV,181.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1007,12,car,84.0,development,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1819,36,education,51.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2394,36,radio/TV,66.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,8133,36,car,226.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,730,7,radio/TV,104.0,recreational,41_50,no data,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,free,1164,8,vacation/others,146.0,recreational,51_60,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,5954,42,business,142.0,development,41_50,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1977,36,education,55.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1526,12,car,127.0,development,61_70,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3965,42,radio/TV,94.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4771,11,radio/TV,434.0,recreational,51_60,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,9436,54,car,175.0,development,31_40,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3832,30,furniture/equipment,128.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,5943,24,radio/TV,248.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1213,15,radio/TV,81.0,recreational,41_50,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1568,18,business,87.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,1755,24,vacation/others,73.0,recreational,51_60,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,2315,10,radio/TV,232.0,recreational,51_60,little,high,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,1412,12,business,118.0,development,21_30,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1295,18,furniture/equipment,72.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,12612,36,education,350.0,development,41_50,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2249,18,car,125.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1108,12,repairs,92.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,618,12,radio/TV,52.0,recreational,51_60,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1409,12,car,117.0,development,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,797,12,radio/TV,66.0,recreational,31_40,no data,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,3617,24,furniture/equipment,151.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1318,12,car,110.0,development,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,15945,54,business,295.0,development,51_60,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2012,12,education,168.0,development,61_70,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2622,18,business,146.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2337,36,radio/TV,65.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,7057,20,car,353.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1469,24,car,61.0,development,41_50,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,2323,36,radio/TV,65.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,932,6,radio/TV,155.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1919,9,furniture/equipment,213.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2445,12,car,204.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,11938,24,vacation/others,497.0,recreational,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6458,18,car,359.0,development,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6078,12,car,506.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,7721,24,furniture/equipment,322.0,maintenance,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1410,14,business,101.0,development,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1449,6,business,242.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,392,15,education,26.0,development,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,6260,18,car,348.0,development,21_30,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,7855,36,car,218.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1680,12,radio/TV,140.0,recreational,31_40,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3578,48,radio/TV,75.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,7174,42,radio/TV,171.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2132,10,furniture/equipment,213.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,4281,33,furniture/equipment,130.0,maintenance,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2366,12,car,197.0,development,31_40,quite rich,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1835,21,radio/TV,87.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,3868,24,car,161.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1768,12,furniture/equipment,147.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,781,10,car,78.0,development,61_70,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1924,18,furniture/equipment,107.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2121,12,car,177.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,701,12,radio/TV,58.0,recreational,41_50,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,639,12,repairs,53.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1860,12,car,155.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3499,12,car,292.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,8487,48,car,177.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6887,36,education,191.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2708,15,furniture/equipment,181.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,1984,18,furniture/equipment,110.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,10144,60,radio/TV,169.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1240,12,radio/TV,103.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,8613,27,car,319.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,766,12,radio/TV,64.0,recreational,61_70,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2728,15,radio/TV,182.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1881,12,radio/TV,157.0,recreational,41_50,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and non-resident,own,709,6,car,118.0,development,21_30,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,4795,36,radio/TV,133.0,recreational,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3416,27,radio/TV,127.0,recreational,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2462,18,furniture/equipment,137.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2288,21,furniture/equipment,109.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3566,48,business,74.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,860,6,car,143.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,682,12,car,57.0,development,51_60,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5371,36,furniture/equipment,149.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1582,18,radio/TV,88.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1346,6,radio/TV,224.0,recreational,41_50,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1924,10,radio/TV,192.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5848,36,radio/TV,162.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,7758,24,car,323.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,6967,24,business,290.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1282,12,furniture/equipment,107.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1288,9,repairs,143.0,maintenance,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,339,12,education,28.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3512,24,car,146.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1898,6,radio/TV,316.0,recreational,31_40,no data,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2872,24,radio/TV,120.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1055,18,car,59.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1262,15,domestic appliances,84.0,maintenance,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,7308,10,car,731.0,development,71_80,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,909,36,car,25.0,development,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2978,6,furniture/equipment,496.0,maintenance,31_40,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1131,18,furniture/equipment,63.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1577,11,furniture/equipment,143.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3972,24,furniture/equipment,166.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1935,24,business,81.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,950,15,car,63.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,763,12,furniture/equipment,64.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,2064,24,furniture/equipment,86.0,maintenance,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1414,8,radio/TV,177.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3414,21,education,163.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,7485,30,car,250.0,development,51_60,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2577,12,furniture/equipment,215.0,maintenance,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,338,6,radio/TV,56.0,recreational,51_60,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,1963,12,radio/TV,164.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,571,21,car,27.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,9572,36,business,266.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4455,36,business,124.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1647,21,car,78.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3777,24,furniture/equipment,157.0,maintenance,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,884,18,car,49.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1360,15,radio/TV,91.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,5129,9,car,570.0,development,71_80,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,free,1175,16,car,73.0,development,61_70,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,674,12,radio/TV,56.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3244,18,furniture/equipment,180.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4591,24,business,191.0,development,51_60,rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,free,3844,48,business,80.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3915,27,business,145.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2108,6,radio/TV,351.0,recreational,21_30,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,3031,45,radio/TV,67.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,1501,9,education,167.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1382,6,radio/TV,230.0,recreational,21_30,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,951,12,furniture/equipment,79.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2760,24,car,115.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4297,18,furniture/equipment,239.0,maintenance,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,936,9,education,104.0,development,51_60,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1168,12,car,97.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5117,27,business,190.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,902,12,education,75.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1495,12,car,125.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,free,10623,30,car,354.0,development,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1935,12,furniture/equipment,161.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1424,12,domestic appliances,119.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,6568,24,business,274.0,development,21_30,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1413,12,car,118.0,development,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3074,9,radio/TV,342.0,recreational,31_40,no data,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3835,36,radio/TV,107.0,recreational,41_50,no data,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5293,27,business,196.0,development,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1908,30,business,64.0,development,61_70,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3342,36,radio/TV,93.0,recreational,51_60,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,932,6,education,155.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3104,18,business,172.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3913,36,radio/TV,109.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,3021,24,furniture/equipment,126.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1364,10,car,136.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,625,12,radio/TV,52.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1200,12,education,100.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,707,12,radio/TV,59.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2978,24,business,124.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4657,15,car,310.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2613,36,repairs,73.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,10961,48,radio/TV,228.0,recreational,21_30,rich,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,7865,12,furniture/equipment,655.0,maintenance,51_60,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1478,9,radio/TV,164.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3149,24,furniture/equipment,131.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4210,36,radio/TV,117.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,free,2507,9,car,279.0,development,51_60,quite rich,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2141,12,radio/TV,178.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,866,18,radio/TV,48.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1544,4,radio/TV,386.0,recreational,41_50,little,high,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,1823,24,radio/TV,76.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,14555,6,car,2426.0,development,21_30,moderate,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,rent,2767,21,business,132.0,development,61_70,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1291,12,radio/TV,108.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2522,30,radio/TV,84.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,915,24,car,38.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1595,6,radio/TV,266.0,recreational,51_60,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,4605,48,car,96.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1185,12,business,99.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3447,12,education,287.0,development,31_40,quite rich,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1258,24,business,52.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,717,12,radio/TV,60.0,recreational,51_60,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1204,6,car,201.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1925,24,furniture/equipment,80.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,433,18,radio/TV,24.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,666,6,car,111.0,development,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,2251,12,furniture/equipment,188.0,maintenance,41_50,rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2150,30,car,72.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4151,24,furniture/equipment,173.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2030,9,furniture/equipment,226.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,7418,60,radio/TV,124.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,2684,24,radio/TV,112.0,recreational,31_40,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,2149,12,radio/TV,179.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3812,15,car,254.0,development,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1154,11,radio/TV,105.0,recreational,51_60,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1657,12,furniture/equipment,138.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1603,24,radio/TV,67.0,recreational,51_60,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,5302,18,car,295.0,development,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,free,2748,12,education,229.0,development,51_60,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1231,10,car,123.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,802,15,radio/TV,53.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6304,36,business,175.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1533,24,radio/TV,64.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,8978,14,car,641.0,development,41_50,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,999,24,radio/TV,42.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2662,18,car,148.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1402,12,furniture/equipment,117.0,maintenance,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,12169,48,car,254.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3060,48,radio/TV,64.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,11998,30,repairs,400.0,maintenance,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2697,9,radio/TV,300.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2404,18,radio/TV,134.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1262,12,furniture/equipment,105.0,maintenance,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,4611,6,furniture/equipment,768.0,maintenance,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,1901,24,radio/TV,79.0,recreational,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3368,15,car,225.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1574,12,furniture/equipment,131.0,maintenance,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1445,18,radio/TV,80.0,recreational,41_50,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1520,15,furniture/equipment,101.0,maintenance,61_70,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3878,24,car,162.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,10722,47,car,228.0,development,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,4788,48,car,100.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,7582,48,vacation/others,158.0,recreational,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1092,12,radio/TV,91.0,recreational,41_50,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1024,24,radio/TV,43.0,recreational,41_50,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1076,12,business,90.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,9398,36,car,261.0,development,21_30,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,6419,24,car,267.0,development,41_50,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,4796,42,car,114.0,development,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,7629,48,business,159.0,development,41_50,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,9960,48,furniture/equipment,208.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,4675,12,car,390.0,development,21_30,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1287,10,car,129.0,development,41_50,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2515,18,furniture/equipment,140.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2745,21,furniture/equipment,131.0,maintenance,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,own,672,6,car,112.0,development,51_60,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,3804,36,radio/TV,106.0,recreational,41_50,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1344,24,car,56.0,development,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1038,10,car,104.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,10127,48,car,211.0,development,41_50,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1543,6,furniture/equipment,257.0,maintenance,31_40,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,4811,30,car,160.0,development,21_30,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,727,12,radio/TV,61.0,recreational,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1237,8,furniture/equipment,155.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,276,9,car,31.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and non-resident,free,5381,48,vacation/others,112.0,recreational,41_50,moderate,normal,198,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5511,24,furniture/equipment,230.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3749,24,furniture/equipment,156.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,685,12,car,57.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1494,4,car,374.0,development,21_30,rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2746,36,furniture/equipment,76.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,708,12,furniture/equipment,59.0,maintenance,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,4351,24,furniture/equipment,181.0,maintenance,41_50,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,701,12,education,58.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3643,15,furniture/equipment,243.0,maintenance,21_30,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,4249,30,car,142.0,development,21_30,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1938,24,radio/TV,81.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,2910,24,car,121.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2659,18,furniture/equipment,148.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1028,18,car,57.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3398,8,car,425.0,development,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,5801,12,furniture/equipment,483.0,maintenance,41_50,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1525,24,car,64.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4473,36,radio/TV,124.0,recreational,31_40,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1068,6,radio/TV,178.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,6615,24,car,276.0,development,71_80,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1864,18,education,104.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,7408,60,car,123.0,development,21_30,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,11590,48,car,241.0,development,21_30,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,4110,24,furniture/equipment,171.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,3384,6,furniture/equipment,564.0,maintenance,41_50,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,2101,13,radio/TV,162.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1275,15,domestic appliances,85.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4169,24,furniture/equipment,174.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1521,10,furniture/equipment,152.0,maintenance,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,free,5743,24,education,239.0,development,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,3599,21,furniture/equipment,171.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,3213,18,radio/TV,178.0,recreational,21_30,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4439,18,business,247.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3949,10,car,395.0,development,31_40,rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,1459,15,radio/TV,97.0,recreational,41_50,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,882,13,radio/TV,68.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,rent,3758,24,radio/TV,157.0,recreational,21_30,quite rich,normal,198,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1743,6,business,290.0,development,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,1136,9,education,126.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1236,9,domestic appliances,137.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,959,9,furniture/equipment,107.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3229,18,car,179.0,development,31_40,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,6199,12,radio/TV,517.0,recreational,21_30,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,727,10,education,73.0,development,41_50,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1246,24,car,52.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2331,12,radio/TV,194.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4463,36,radio/TV,124.0,recreational,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,776,12,radio/TV,65.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2406,30,furniture/equipment,80.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1239,18,education,69.0,development,61_70,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3399,12,radio/TV,283.0,recreational,31_40,rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2247,12,car,187.0,development,31_40,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1766,6,furniture/equipment,294.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,2473,18,furniture/equipment,137.0,maintenance,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1542,12,business,128.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3850,18,car,214.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3650,18,furniture/equipment,203.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3446,36,furniture/equipment,96.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3001,18,furniture/equipment,167.0,maintenance,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3079,36,car,86.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6070,18,radio/TV,337.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2146,10,furniture/equipment,215.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,13756,60,car,229.0,development,61_70,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,14782,60,vacation/others,246.0,recreational,61_70,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,7685,48,business,160.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2320,18,radio/TV,129.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,846,7,radio/TV,121.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,14318,36,car,398.0,development,51_60,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,362,6,car,60.0,development,51_60,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2212,20,furniture/equipment,111.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,12976,18,car,721.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1283,22,car,58.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1330,12,car,111.0,development,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4272,30,business,142.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2238,18,radio/TV,124.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1126,18,radio/TV,63.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,7374,18,furniture/equipment,410.0,maintenance,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2326,15,business,155.0,development,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1449,9,business,161.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1820,18,car,101.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,983,12,furniture/equipment,82.0,maintenance,0_20,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,free,3249,36,car,90.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1957,6,radio/TV,326.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2406,9,furniture/equipment,267.0,maintenance,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,11760,39,education,302.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,2578,12,furniture/equipment,215.0,maintenance,51_60,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2348,36,furniture/equipment,65.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1223,12,car,102.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1516,24,radio/TV,63.0,recreational,41_50,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1473,18,radio/TV,82.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1887,18,business,105.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,8648,24,business,360.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,802,14,car,57.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2899,18,car,161.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2039,24,radio/TV,85.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2197,24,car,92.0,development,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1053,15,radio/TV,70.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3235,24,radio/TV,135.0,recreational,21_30,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,939,12,car,78.0,development,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1967,24,radio/TV,82.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,7253,33,car,220.0,development,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2292,12,business,191.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1597,10,car,160.0,development,41_50,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1381,24,car,58.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5842,36,car,162.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2579,12,car,215.0,development,31_40,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,8471,18,education,471.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,2782,21,car,132.0,development,31_40,quite rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1042,18,car,58.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3186,15,car,212.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2028,12,car,169.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,958,12,car,80.0,development,41_50,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1591,21,furniture/equipment,76.0,maintenance,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2762,12,furniture/equipment,230.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2779,18,car,154.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2743,28,radio/TV,98.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1149,18,radio/TV,64.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1313,9,furniture/equipment,146.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,free,1190,18,repairs,66.0,maintenance,51_60,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,3448,5,business,690.0,development,71_80,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,11328,24,vacation/others,472.0,recreational,21_30,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1872,6,furniture/equipment,312.0,maintenance,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2058,24,repairs,86.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2136,9,furniture/equipment,237.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1484,12,radio/TV,124.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,660,6,repairs,110.0,maintenance,21_30,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1287,24,car,54.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,3394,42,repairs,81.0,maintenance,61_70,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and non-resident,own,609,12,business,51.0,development,21_30,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,1884,12,car,157.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1620,12,furniture/equipment,135.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2629,20,vacation/others,131.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,719,12,education,60.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,5096,48,furniture/equipment,106.0,maintenance,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1244,9,education,138.0,development,41_50,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1842,36,car,51.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2576,7,radio/TV,368.0,recreational,31_40,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,1424,12,furniture/equipment,119.0,maintenance,51_60,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1512,15,repairs,101.0,maintenance,61_70,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,11054,36,car,307.0,development,31_40,no data,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,518,6,radio/TV,86.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2759,12,furniture/equipment,230.0,maintenance,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2670,24,car,111.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4817,24,car,201.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,2679,24,car,112.0,development,21_30,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3905,11,car,355.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3386,12,car,282.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,343,6,domestic appliances,57.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4594,18,radio/TV,255.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3620,36,furniture/equipment,101.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1721,15,car,115.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,3017,12,furniture/equipment,251.0,maintenance,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,754,12,education,63.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1950,18,business,108.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2924,24,car,122.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1659,24,radio/TV,69.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,7238,48,radio/TV,151.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2764,33,business,84.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4679,24,car,195.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,3092,24,radio/TV,129.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,448,6,education,75.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,654,9,car,73.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,1238,6,education,206.0,development,31_40,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1245,18,radio/TV,69.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3114,18,furniture/equipment,173.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2569,39,car,66.0,development,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5152,24,radio/TV,215.0,recreational,21_30,rich,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1037,12,business,86.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1478,15,furniture/equipment,99.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3573,12,radio/TV,298.0,recreational,21_30,moderate,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1201,24,car,50.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3622,30,furniture/equipment,121.0,maintenance,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,960,15,furniture/equipment,64.0,maintenance,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1163,12,car,97.0,development,41_50,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1209,6,car,202.0,development,41_50,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3077,12,radio/TV,256.0,recreational,51_60,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,free,3757,24,car,157.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1418,10,car,142.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,3518,6,car,586.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1934,12,radio/TV,161.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,free,8318,27,business,308.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1237,6,radio/TV,206.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,368,6,radio/TV,61.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,2122,12,car,177.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2996,24,furniture/equipment,125.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,9034,36,furniture/equipment,251.0,maintenance,21_30,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1585,24,furniture/equipment,66.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1301,18,radio/TV,72.0,recreational,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1323,6,car,220.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3123,24,car,130.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,5493,36,car,153.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1126,9,radio/TV,125.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1216,24,radio/TV,51.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1207,24,car,50.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1309,10,car,131.0,development,21_30,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2360,15,car,157.0,development,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6850,15,car,457.0,development,31_40,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1413,24,radio/TV,59.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,8588,39,car,220.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,759,12,car,63.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,4686,36,car,130.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2687,15,business,179.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,585,12,radio/TV,49.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2255,24,car,94.0,development,51_60,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,609,6,car,102.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1361,6,car,227.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,7127,36,furniture/equipment,198.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1203,6,car,200.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,700,6,radio/TV,117.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,5507,24,repairs,229.0,maintenance,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3190,18,radio/TV,177.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,7119,48,furniture/equipment,148.0,maintenance,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3488,24,car,145.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1113,18,radio/TV,62.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,7966,26,car,306.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1532,15,education,102.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1503,4,radio/TV,376.0,recreational,41_50,little,high,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,2302,36,radio/TV,64.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,662,6,car,110.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2273,36,education,63.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2631,15,car,175.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1503,12,car,125.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1311,24,radio/TV,55.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3105,24,radio/TV,129.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2319,21,education,110.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,1374,6,car,229.0,development,71_80,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3612,18,furniture/equipment,201.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,7763,48,car,162.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3049,18,furniture/equipment,169.0,maintenance,41_50,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1534,12,radio/TV,128.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2032,24,car,85.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6350,30,furniture/equipment,212.0,maintenance,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2864,18,furniture/equipment,159.0,maintenance,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1255,12,car,105.0,development,61_70,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,1333,24,car,56.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2022,24,car,84.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1552,24,radio/TV,65.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,626,12,radio/TV,52.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,8858,48,car,185.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,996,12,repairs,83.0,maintenance,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1750,6,radio/TV,292.0,recreational,41_50,quite rich,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,6999,48,radio/TV,146.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1995,12,car,166.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,1199,9,education,133.0,development,61_70,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1331,12,radio/TV,111.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2278,18,car,127.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,5003,21,car,238.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3552,24,furniture/equipment,148.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1928,18,furniture/equipment,107.0,maintenance,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,2964,24,car,124.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1546,24,radio/TV,64.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,683,6,radio/TV,114.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,12389,36,car,344.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4712,24,business,196.0,development,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1553,24,radio/TV,65.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1372,12,car,114.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2578,24,radio/TV,107.0,recreational,31_40,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3979,48,radio/TV,83.0,recreational,41_50,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,6758,48,radio/TV,141.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,3234,24,furniture/equipment,135.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5954,30,radio/TV,198.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,5433,24,car,226.0,development,21_30,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,806,15,business,54.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1082,9,radio/TV,120.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,2788,15,furniture/equipment,186.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2930,12,radio/TV,244.0,recreational,21_30,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1927,24,education,80.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2820,36,car,78.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,937,24,education,39.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1056,18,car,59.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3124,12,car,260.0,development,41_50,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1388,9,furniture/equipment,154.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,2384,36,repairs,66.0,maintenance,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,free,2133,12,car,178.0,development,51_60,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2039,18,furniture/equipment,113.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2799,9,car,311.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1289,12,furniture/equipment,107.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1217,18,domestic appliances,68.0,maintenance,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2246,12,furniture/equipment,187.0,maintenance,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,385,12,radio/TV,32.0,recreational,51_60,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1965,24,car,82.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1572,21,business,75.0,development,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,2718,24,car,113.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,1358,24,vacation/others,57.0,recreational,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,931,6,car,155.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1442,24,car,60.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4241,24,business,177.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2775,18,car,154.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3863,24,business,161.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2329,7,radio/TV,333.0,recreational,41_50,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,918,9,furniture/equipment,102.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,free,1837,24,education,77.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,own,3349,36,furniture/equipment,93.0,maintenance,21_30,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1275,10,furniture/equipment,128.0,maintenance,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2828,24,furniture/equipment,118.0,maintenance,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,4526,24,business,189.0,development,71_80,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,free,2671,36,radio/TV,74.0,recreational,51_60,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2051,18,radio/TV,114.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1300,15,car,87.0,development,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,741,12,domestic appliances,62.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,free,1240,10,car,124.0,development,41_50,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,3357,21,radio/TV,160.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3632,24,car,151.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1808,18,furniture/equipment,100.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,12204,48,business,254.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,9157,60,radio/TV,153.0,recreational,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3676,6,car,613.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3441,30,furniture/equipment,115.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,640,12,car,53.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3652,21,business,174.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1530,18,car,85.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3914,48,business,82.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1858,12,furniture/equipment,155.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2600,18,radio/TV,144.0,recreational,61_70,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1979,15,radio/TV,132.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2116,6,furniture/equipment,353.0,maintenance,41_50,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1437,9,car,160.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4042,42,furniture/equipment,96.0,maintenance,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3832,9,education,426.0,development,61_70,no data,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,3660,24,radio/TV,152.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1553,18,furniture/equipment,86.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1444,15,radio/TV,96.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1980,9,furniture/equipment,220.0,maintenance,0_20,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1355,24,car,56.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1393,12,education,116.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1376,24,radio/TV,57.0,recreational,21_30,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,15653,60,radio/TV,261.0,recreational,21_30,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1493,12,radio/TV,124.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4370,42,radio/TV,104.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,own,750,18,education,42.0,development,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1308,15,repairs,87.0,maintenance,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,4623,15,education,308.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1851,24,radio/TV,77.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1880,18,radio/TV,104.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,7980,36,business,222.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4583,30,furniture/equipment,153.0,maintenance,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1386,12,car,116.0,development,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,947,24,car,39.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,684,12,education,57.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,free,7476,48,education,156.0,development,51_60,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1922,12,furniture/equipment,160.0,maintenance,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2303,24,car,96.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,8086,36,car,225.0,development,41_50,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2346,24,car,98.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3973,14,car,284.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,888,12,car,74.0,development,41_50,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,10222,48,radio/TV,213.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,4221,30,business,141.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6361,18,furniture/equipment,353.0,maintenance,41_50,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1297,12,radio/TV,108.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,900,12,car,75.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2241,21,furniture/equipment,107.0,maintenance,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1050,6,furniture/equipment,175.0,maintenance,31_40,moderate,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1047,6,education,174.0,development,51_60,rich,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,6314,24,vacation/others,263.0,recreational,21_30,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3496,30,furniture/equipment,117.0,maintenance,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3609,48,business,75.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,4843,12,car,404.0,development,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3017,30,radio/TV,101.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4139,24,business,172.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5742,36,business,160.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,10366,60,car,173.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2080,6,car,347.0,development,21_30,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2580,21,business,123.0,development,41_50,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,4530,30,radio/TV,151.0,recreational,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5150,24,furniture/equipment,215.0,maintenance,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5595,72,radio/TV,78.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,2384,24,radio/TV,99.0,recreational,61_70,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1453,18,radio/TV,81.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1538,6,education,256.0,development,51_60,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2279,12,radio/TV,190.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1478,15,radio/TV,99.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,5103,24,radio/TV,213.0,recreational,41_50,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,9857,36,business,274.0,development,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,6527,60,car,109.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1347,10,radio/TV,135.0,recreational,21_30,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2862,36,car,80.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2753,9,radio/TV,306.0,recreational,31_40,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3651,12,car,304.0,development,31_40,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,975,15,furniture/equipment,65.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,2631,15,repairs,175.0,maintenance,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2896,24,radio/TV,121.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4716,6,car,786.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2284,24,radio/TV,95.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1236,6,car,206.0,development,51_60,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1103,12,radio/TV,92.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,own,926,12,car,77.0,development,31_40,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1800,18,radio/TV,100.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,1905,15,education,127.0,development,41_50,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1123,12,furniture/equipment,94.0,maintenance,21_30,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,6331,48,car,132.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,free,1377,24,radio/TV,57.0,recreational,41_50,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2503,30,business,83.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2528,27,business,94.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,free,5324,15,car,355.0,development,31_40,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6560,48,car,137.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2969,12,furniture/equipment,247.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1206,9,radio/TV,134.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2118,9,radio/TV,235.0,recreational,31_40,moderate,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,629,18,radio/TV,35.0,recreational,31_40,quite rich,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,free,1198,6,education,200.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2476,21,car,118.0,development,41_50,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1138,9,radio/TV,126.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,14027,60,car,234.0,development,21_30,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,7596,30,car,253.0,development,61_70,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3077,30,radio/TV,103.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1505,18,radio/TV,84.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3148,24,radio/TV,131.0,recreational,31_40,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6148,20,car,307.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1337,9,radio/TV,149.0,recreational,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,433,6,education,72.0,development,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1228,12,car,102.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,790,9,radio/TV,88.0,recreational,61_70,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2570,27,car,95.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,250,6,car,42.0,development,41_50,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1316,15,radio/TV,88.0,recreational,41_50,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1882,18,radio/TV,105.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,6416,48,business,134.0,development,51_60,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1275,24,business,53.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6403,24,radio/TV,267.0,recreational,31_40,moderate,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,1987,24,radio/TV,83.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,760,8,radio/TV,95.0,recreational,41_50,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,2603,24,car,108.0,development,21_30,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3380,4,car,845.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,own,3990,36,domestic appliances,111.0,maintenance,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,highly skilled,rent,11560,24,car,482.0,development,21_30,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4380,18,car,243.0,development,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,6761,6,car,1127.0,development,41_50,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,4280,30,business,143.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2325,24,car,97.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1048,10,radio/TV,105.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3160,21,radio/TV,150.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2483,24,furniture/equipment,103.0,maintenance,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,14179,39,furniture/equipment,364.0,maintenance,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1797,13,business,138.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,2511,15,car,167.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1274,12,car,106.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5248,21,car,250.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3029,15,car,202.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,428,6,furniture/equipment,71.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,976,18,car,54.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,rent,841,12,business,70.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,5771,30,radio/TV,192.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1555,12,repairs,130.0,maintenance,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1285,24,car,54.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,1299,6,car,216.0,development,71_80,rich,high,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,1271,15,radio/TV,85.0,recreational,31_40,rich,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1393,24,car,58.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,691,12,car,58.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,5045,15,car,336.0,development,51_60,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2124,18,furniture/equipment,118.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2214,12,radio/TV,184.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,free,12680,21,car,604.0,development,31_40,no data,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2463,24,car,103.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1155,12,radio/TV,96.0,recreational,41_50,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,3108,30,furniture/equipment,104.0,maintenance,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,2901,10,car,290.0,development,31_40,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3617,12,furniture/equipment,301.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1655,12,radio/TV,138.0,recreational,61_70,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,2812,24,car,117.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,8065,36,education,224.0,development,21_30,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3275,21,car,156.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2223,24,radio/TV,93.0,recreational,51_60,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,free,1480,12,car,123.0,development,61_70,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1371,24,car,57.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3535,36,car,98.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3509,18,radio/TV,195.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,5711,36,car,159.0,development,31_40,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3872,18,repairs,215.0,maintenance,61_70,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4933,39,radio/TV,126.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1940,24,car,81.0,development,61_70,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1410,12,education,118.0,development,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,836,12,car,70.0,development,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6468,20,car,323.0,development,61_70,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1941,18,business,108.0,development,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2675,22,radio/TV,122.0,recreational,41_50,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2751,48,car,57.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,6224,48,education,130.0,development,51_60,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5998,40,education,150.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1188,21,business,57.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6313,24,car,263.0,development,41_50,no data,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1221,6,furniture/equipment,204.0,maintenance,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,2892,24,furniture/equipment,120.0,maintenance,51_60,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3062,24,furniture/equipment,128.0,maintenance,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,2301,9,furniture/equipment,256.0,maintenance,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,7511,18,car,417.0,development,51_60,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1258,12,furniture/equipment,105.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,717,24,car,30.0,development,51_60,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,1549,9,car,172.0,development,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,1597,24,education,67.0,development,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,1795,18,radio/TV,100.0,recreational,41_50,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,4272,20,furniture/equipment,214.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,976,12,radio/TV,81.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,rent,7472,12,car,623.0,development,21_30,moderate,high,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,9271,36,car,258.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,590,6,radio/TV,98.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,930,12,radio/TV,78.0,recreational,61_70,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,9283,42,car,221.0,development,51_60,moderate,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,rent,1778,15,car,119.0,development,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,907,8,business,113.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,484,6,radio/TV,81.0,recreational,21_30,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,9629,36,car,267.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3051,48,domestic appliances,64.0,maintenance,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3931,48,car,82.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,7432,36,car,206.0,development,51_60,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1338,6,domestic appliances,223.0,maintenance,61_70,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1554,6,radio/TV,259.0,recreational,21_30,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,15857,36,vacation/others,440.0,recreational,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1345,18,radio/TV,75.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1101,12,car,92.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3016,12,radio/TV,251.0,recreational,21_30,rich,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2712,36,furniture/equipment,75.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,731,8,car,91.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,3780,18,furniture/equipment,210.0,maintenance,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1602,21,car,76.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,3966,18,car,220.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4165,18,business,231.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,8335,36,car,232.0,development,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,6681,48,business,139.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2375,24,business,99.0,development,41_50,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1216,18,car,68.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,11816,45,business,263.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,5084,24,radio/TV,212.0,recreational,41_50,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,2327,15,radio/TV,155.0,recreational,21_30,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1082,12,car,90.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,886,12,radio/TV,74.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,601,4,furniture/equipment,150.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2957,24,car,123.0,development,61_70,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2611,24,radio/TV,109.0,recreational,41_50,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5179,36,furniture/equipment,144.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2993,21,car,143.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1943,18,repairs,108.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1559,24,business,65.0,development,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3422,18,furniture/equipment,190.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3976,21,furniture/equipment,189.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,6761,18,car,376.0,development,61_70,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1249,24,car,52.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1364,9,radio/TV,152.0,recreational,51_60,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,709,12,radio/TV,59.0,recreational,51_60,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,2235,20,car,112.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4042,24,car,168.0,development,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1471,15,radio/TV,98.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,free,1442,18,car,80.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,10875,36,car,302.0,development,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1474,24,car,61.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,894,10,education,89.0,development,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3343,15,furniture/equipment,223.0,maintenance,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,3959,15,car,264.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3577,9,car,397.0,development,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,5804,24,car,242.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2169,18,business,120.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2439,24,radio/TV,102.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,4526,27,furniture/equipment,168.0,maintenance,31_40,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,rent,2210,10,furniture/equipment,221.0,maintenance,21_30,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,2221,15,furniture/equipment,148.0,maintenance,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2389,18,radio/TV,133.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3331,12,furniture/equipment,278.0,maintenance,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,7409,36,business,206.0,development,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,652,12,furniture/equipment,54.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,7678,36,furniture/equipment,213.0,maintenance,41_50,quite rich,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1343,6,car,224.0,development,41_50,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1382,24,business,58.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,874,15,domestic appliances,58.0,maintenance,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3590,12,furniture/equipment,299.0,maintenance,21_30,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1322,11,car,120.0,development,41_50,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1940,18,radio/TV,108.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3595,36,radio/TV,100.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,1422,9,car,158.0,development,21_30,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6742,30,radio/TV,225.0,recreational,31_40,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,7814,24,car,326.0,development,31_40,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,9277,24,car,387.0,development,41_50,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2181,30,car,73.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and non-resident,own,1098,18,radio/TV,61.0,recreational,61_70,little,normal,197,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,4057,24,furniture/equipment,169.0,maintenance,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,795,12,education,66.0,development,51_60,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2825,24,business,118.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,15672,48,business,326.0,development,21_30,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6614,36,car,184.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,7824,28,car,279.0,development,41_50,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2442,27,business,90.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1829,15,radio/TV,122.0,recreational,41_50,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2171,12,car,181.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,5800,36,car,161.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1169,18,radio/TV,65.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,8947,36,car,249.0,development,31_40,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,2606,21,radio/TV,124.0,recreational,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1592,12,furniture/equipment,133.0,maintenance,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,rent,2186,15,furniture/equipment,146.0,maintenance,31_40,no data,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,4153,18,furniture/equipment,231.0,maintenance,41_50,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2625,16,car,164.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3485,20,car,174.0,development,41_50,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,10477,36,car,291.0,development,41_50,no data,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1386,15,radio/TV,92.0,recreational,41_50,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1278,24,radio/TV,53.0,recreational,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,1107,12,radio/TV,92.0,recreational,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3763,21,car,179.0,development,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3711,36,education,103.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,3594,15,car,240.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and resident,own,3195,9,car,355.0,development,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,4454,36,radio/TV,124.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,4736,24,furniture/equipment,197.0,maintenance,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2991,30,radio/TV,100.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2142,11,business,195.0,development,21_30,rich,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,3161,24,business,132.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,18424,48,vacation/others,384.0,recreational,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2848,10,car,285.0,development,31_40,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,14896,6,car,2483.0,development,61_70,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2359,24,furniture/equipment,98.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,3345,24,furniture/equipment,139.0,maintenance,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1817,18,furniture/equipment,101.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,12749,48,radio/TV,266.0,recreational,31_40,quite rich,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1366,9,radio/TV,152.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,2002,12,car,167.0,development,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6872,24,furniture/equipment,286.0,maintenance,51_60,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,697,12,car,58.0,development,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,1049,18,furniture/equipment,58.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,10297,48,car,215.0,development,31_40,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1867,30,radio/TV,62.0,recreational,51_60,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1344,12,car,112.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1747,24,furniture/equipment,73.0,maintenance,21_30,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,own,1670,9,radio/TV,186.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,1224,9,car,136.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,522,12,radio/TV,44.0,recreational,41_50,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1498,12,radio/TV,125.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,1919,30,radio/TV,64.0,recreational,31_40,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,745,9,radio/TV,83.0,recreational,21_30,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,2063,6,radio/TV,344.0,recreational,31_40,moderate,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,6288,60,education,105.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,6842,24,car,285.0,development,41_50,no data,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,3527,12,car,294.0,development,41_50,no data,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1546,10,car,155.0,development,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,929,24,furniture/equipment,39.0,maintenance,31_40,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1455,4,car,364.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1845,15,furniture/equipment,123.0,maintenance,41_50,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,8358,48,car,174.0,development,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,3349,24,furniture/equipment,140.0,maintenance,31_40,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,own,2859,12,car,238.0,development,31_40,no data,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1533,18,furniture/equipment,85.0,maintenance,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,3621,24,radio/TV,151.0,recreational,31_40,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and non-resident,own,3590,18,business,199.0,development,41_50,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2145,36,business,60.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,rent,4113,24,car,171.0,development,21_30,quite rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,10974,36,furniture/equipment,305.0,maintenance,21_30,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1893,12,car,158.0,development,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,1231,24,radio/TV,51.0,recreational,51_60,rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3656,30,radio/TV,122.0,recreational,41_50,rich,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1154,9,radio/TV,128.0,recreational,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,4006,28,car,143.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,free,3069,24,furniture/equipment,128.0,maintenance,31_40,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,1740,6,radio/TV,290.0,recreational,31_40,little,high,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,skilled,own,2353,21,car,112.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,3556,15,car,237.0,development,21_30,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2397,24,radio/TV,100.0,recreational,31_40,quite rich,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,454,6,repairs,76.0,maintenance,21_30,moderate,normal,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1715,30,radio/TV,57.0,recreational,21_30,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2520,27,radio/TV,93.0,recreational,21_30,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,rent,3568,15,radio/TV,238.0,recreational,51_60,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,rent,7166,42,radio/TV,171.0,recreational,21_30,no data,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,3939,11,car,358.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,own,1514,15,repairs,101.0,maintenance,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,7393,24,car,308.0,development,41_50,little,high,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,unskilled and non-resident,rent,1193,24,car,50.0,development,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,7297,60,business,122.0,development,31_40,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,2831,30,radio/TV,94.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1258,24,radio/TV,52.0,recreational,51_60,quite rich,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,753,6,radio/TV,126.0,recreational,61_70,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2427,18,business,135.0,development,41_50,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2538,24,car,106.0,development,41_50,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""potentially risky"",""stop_reason"":""length""}]}",bad
+male,skilled,rent,1264,15,car,84.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,8386,30,furniture/equipment,280.0,maintenance,41_50,moderate,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,rent,4844,48,business,101.0,development,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,highly skilled,own,2923,21,car,139.0,development,21_30,rich,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,8229,36,car,229.0,development,21_30,little,high,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,2028,24,furniture/equipment,84.0,maintenance,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+female,skilled,rent,1433,15,furniture/equipment,96.0,maintenance,21_30,little,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,6289,42,business,150.0,development,31_40,rich,normal,190,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,skilled,own,1409,13,radio/TV,108.0,recreational,61_70,moderate,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,highly skilled,free,6579,24,car,274.0,development,21_30,little,high,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,unskilled and resident,own,1743,24,radio/TV,73.0,recreational,41_50,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,3565,12,education,297.0,development,31_40,no data,high,194,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,own,1569,15,radio/TV,105.0,recreational,31_40,moderate,normal,196,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,unskilled and resident,rent,1936,18,radio/TV,108.0,recreational,21_30,little,normal,195,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,3959,36,furniture/equipment,110.0,maintenance,31_40,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,2390,12,car,199.0,development,51_60,no data,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+female,unskilled and resident,own,1736,12,furniture/equipment,145.0,maintenance,31_40,little,normal,193,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""bad\""\n}"",""stop_reason"":""length""}]}",bad
+male,highly skilled,own,3857,30,car,129.0,development,41_50,little,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,804,12,radio/TV,67.0,recreational,31_40,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,free,1845,45,radio/TV,41.0,recreational,21_30,little,normal,192,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
+male,skilled,own,4576,45,car,102.0,development,21_30,moderate,normal,191,"{""outputs"":[{""text"":"" {\n  \""loan\"": \""good\""\n}"",""stop_reason"":""length""}]}",good
